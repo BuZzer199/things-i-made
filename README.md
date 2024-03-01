@@ -13,5 +13,7 @@ a recource pack for 1.20.1
 - changes several translations to be quite funnies, yaey
 
 # But Better
-my opinion onion what
-centered around improved gameplay and BEES.
+a recource pack for 1.20.1
+- my opinion onion
+- what
+- centered around improved gameplay and BEES.
